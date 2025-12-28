@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshant1907" alt="dikshant1907" /></a> </p>
 
-- 🌱 I’m currently learning **Html, CSS, AI, ML**
+- 🌱 I’m currently learning **DSA,sql**
 
 - 📫 How to reach me **dikshantvj2003@gmail.com**
 
