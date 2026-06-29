@@ -1,9 +1,12 @@
+# GitHub Actions workflow to generate the snake contribution graph
+# Save this file as: .github/workflows/snake.yml in your profile repo
+
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build:
