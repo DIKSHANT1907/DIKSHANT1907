@@ -239,9 +239,6 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dikshant1907/dikshant1907/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-<div align="center">
   <img src="https://raw.githubusercontent.com/DIKSHANT1907/DIKSHANT1907/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 <br/>
