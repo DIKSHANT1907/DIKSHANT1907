@@ -179,6 +179,7 @@
 | <img src="https://img.shields.io/badge/🤖-4285F4?style=flat-square" /> | **Google Generative AI** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | `2024` |
 | <img src="https://img.shields.io/badge/📊-0078D4?style=flat-square" /> | **Microsoft Excel** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | `2025` |
 | <img src="https://img.shields.io/badge/🗃️-F80000?style=flat-square" /> | **Database for Developers: Foundations** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | `2025` |
+| <img src="https://img.shields.io/badge/📊-1E4C90?style=flat-square" /> | **GenAI Powered Data Analytics Job Simulation** | ![Tata](https://img.shields.io/badge/Tata%20Forage-1E4C90?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white) | `2026` |
 
 </div>
 
