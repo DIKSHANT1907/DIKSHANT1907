@@ -34,7 +34,7 @@
 👤 Name:       Dikshant Joshi
 📍 Location:   Jaipur, Rajasthan, India
 🎓 Education:  B.Tech CSE @ JECRC University (2022 – 2026) | CGPA: 7.5
-🏅 Scholar:    Reliance Foundation Scholarship (2022 – Present)
+🏅 Scholar:    Reliance Foundation Scholarship (2022 – 2026)
 🎯 Interests:  Digital Transformation, Cloud Computing, AI, Data-driven Solutions
 ```
 
